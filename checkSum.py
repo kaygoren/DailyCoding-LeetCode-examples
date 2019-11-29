@@ -1,4 +1,4 @@
-
+# return True if any two numbers from the list adds up to k, False otherwise 
 def checkSumEqual(arr, k):
     temp_arr = []
     for i in arr:
